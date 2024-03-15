@@ -8978,11 +8978,13 @@ product checkout css
 .hr {
   height: 588px;
 }
-.hr img {
+.hr img,
+.br img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
+
 /* CSS */
 .button-59 {
   align-items: center;
