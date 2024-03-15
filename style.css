@@ -8984,6 +8984,9 @@ product checkout css
   height: 100%;
   object-fit: cover;
 }
+.br {
+  height: 300px;
+}
 
 /* CSS */
 .button-59 {
