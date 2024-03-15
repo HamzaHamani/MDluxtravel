@@ -2790,7 +2790,7 @@ input[type="submit"]:focus {
   position: relative;
 }
 .desti-item .desti-image:before {
-  background-color: #101f46;
+  background-color: #101f464d;
   content: "";
   position: absolute;
   top: 0;
@@ -8647,7 +8647,7 @@ product checkout css
   flex-wrap: wrap;
   margin: -5px;
 }
-.widget .gallery .gallery-item,                         
+.widget .gallery .gallery-item,
 .widget .insta-gallery .gallery-item {
   padding: 5px;
 }
